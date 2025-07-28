@@ -4,7 +4,7 @@ import pandas as pd
 #import plotly.express as px
 #import joblib
 from datetime import datetime
-from fpdf import FPDF
+#from fpdf import FPDF
 import os
 
 # Configuration
