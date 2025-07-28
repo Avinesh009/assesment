@@ -1,7 +1,7 @@
 # dashboard.py
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+#import plotly.express as px
 import joblib
 from datetime import datetime
 from fpdf import FPDF
